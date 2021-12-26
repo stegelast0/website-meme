@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+    width: 100;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+    text-align: center;
+}
